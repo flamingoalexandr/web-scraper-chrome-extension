@@ -1,3 +1,4 @@
+import $ from 'jquery';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'jquery-flexdatalist/jquery.flexdatalist.css';
 import '../libs/jquery.bootstrapvalidator/bootstrapValidator.css';

@@ -1,3 +1,4 @@
+import $ from 'jquery';
 import * as browser from 'webextension-polyfill';
 import getContentScript from '../scripts/ContentScript';
 import DataExtractor from '../scripts/DataExtractor';

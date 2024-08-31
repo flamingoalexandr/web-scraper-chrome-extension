@@ -1,3 +1,4 @@
+import $ from 'jquery';
 import * as $ from 'jquery';
 import Translator from '../scripts/Translator';
 

@@ -1,3 +1,4 @@
+import $ from 'jquery';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap';
 import * as browser from 'webextension-polyfill';
